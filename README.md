@@ -15,6 +15,15 @@ O projeto simula um banco digital com foco em:
 - navegação com React Router
 - layout responsivo e animações de entrada
 
+## Integrantes
+
+- Denise Gonçalves
+- Cauã Borges
+- Pedro Campo
+
+## Turma
+-4DS
+
 ## Stack
 
 - React 18
@@ -67,7 +76,7 @@ src/
 ## Instalação
 
 ```bash
-git clone https://github.com/camposdevs/S3-Bank-demo-react.git
+git clone https://github.com/ninis333/S3BankTcc.git
 cd S3-Bank-demo-react
 npm install
 ```
