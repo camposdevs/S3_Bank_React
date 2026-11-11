@@ -22,7 +22,7 @@ O projeto simula um banco digital com foco em:
 - Pedro Campo
 
 ## Turma
--4DS
+- 4DS
 
 ## Stack
 
