@@ -95,6 +95,10 @@
 }
 
 @media (max-width: 860px) {
+  .header__brand img {
+    height: 72px;
+  }
+
   .header__nav,
   .header__actions {
     display: none;
